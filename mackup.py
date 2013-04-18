@@ -67,6 +67,8 @@ SUPPORTED_APPS = {
 
     'LimeChat': ['Library/Preferences/net.limechat.LimeChat-AppStore.plist'],
 
+    'lolcommits': ['.lolcommits'],
+
     'MacOSX': ['.MacOSX'],
 
     'MacVim': ['Library/Preferences/org.vim.MacVim.LSSharedFileList.plist',
