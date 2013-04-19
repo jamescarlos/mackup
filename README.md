@@ -127,6 +127,7 @@ That's it, you got your `git` config setup on your new Mac.
   - [Git](http://git-scm.com/)
   - [GnuPG](http://www.gnupg.org/)
   - [LimeChat](http://limechat.net/mac/)
+  - [lolcommits](https://github.com/mroth/lolcommits)
   - [MacOSX](http://www.apple.com/osx/)
   - [MacVim](https://code.google.com/p/macvim/)
   - [Mercurial](http://mercurial.selenic.com/)
